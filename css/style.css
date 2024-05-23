@@ -347,7 +347,7 @@ body {
 }
 .header-bottom .pagew {
   height: 65px;
-  background-color: bisque;
+  /* background-color: bisque; */
 }
 .logo-gnb {
   position: absolute;

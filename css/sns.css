@@ -12,7 +12,7 @@
   display: block;
   float: left;
   width: 47%;
-  background-color: bisque;
+  /* background-color: bisque; */
 }
 .sns-top {
   position: relative;
@@ -121,7 +121,7 @@
   display: block;
 }
 .sns-info {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   position: relative;
   display: block;
   padding-left: 45px;
